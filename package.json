@@ -1,0 +1,32 @@
+{
+  "name": "nodebb-plugin-steam-bubbles",
+  "version": "0.0.1",
+  "description": "NodeBB Steam bubbles",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mstan/nodebb-plugin-steam-bubbles"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin"
+  ],
+  "author": {
+    "name": "Matthew Stanley",
+    "email": "git@1379.tech"
+  },
+  "nbbpm": {
+    "compatibility": "^0.6.0"
+  },
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/mstan/nodebb-plugin-steam-bubbles/issues"
+  },
+  "readme": "Simple addon to add bubbles to posts using the user's Steam ID. ",
+  "readmeFilename": "README.md",
+  "_id": "nodebb-steam-bubbles@0.0.1",
+  "_from": "nodebb-steam-bubbles@~0.0.1"
+}
