@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-steam-bubbles",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NodeBB Steam bubbles",
   "main": "library.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "email": "git@1379.tech"
   },
   "nbbpm": {
-    "compatibility": "^0.6.0"
+    "compatibility": "^0.6.0 || ^1.0.1"
   },
   "license": "",
   "bugs": {

@@ -4,6 +4,14 @@ This plugin adds user bubbles to posts that link back to the user's steam profil
 
 I am not responsible for the creation of nodebb-plugin-integration-steam. For all questions, refer to [APXEOLOG](https://github.com/APXEOLOG). For questions regarding Steam Bubbles, refer to [mstan](https://github.com/mstan)
 
-## Installation
+# Installation
 
     npm install nodebb-plugin-steam-bubbles
+
+
+# CHANGELOG
+
+
+## v1.0.1 changes
+
+--Add if check to check if data is null. If so, do not render steam bubbles for post user/post.
